@@ -38,7 +38,7 @@ I'm a Master's student in Computer Science at UC San Diego, passionate about sof
 
 ## 🌐 Let’s Connect!  
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/pochunwu2000" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40px">
     <br><strong>LinkedIn</strong>
