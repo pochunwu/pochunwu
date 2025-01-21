@@ -36,9 +36,18 @@ I'm a Master's student in Computer Science at UC San Diego, passionate about sof
 
 ---
 
-## 📫 Let’s Connect!  
+## 🌐 Let’s Connect!  
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pochunwu2000))  
-- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)]([https://yourwebsite.com](https://pochunwu.github.io))  
+<div align="center">
+  <a href="https://www.linkedin.com/in/pochunwu2000" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40px">
+    <br><strong>LinkedIn</strong>
+  </a>
+  <br><br>
+  <a href="https://pochunwu.github.io" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Personal Website" height="40px">
+    <br><strong>Personal Website</strong>
+  </a>
+</div>
 
 Feel free to reach out for collaborations, discussions, or just to connect! 😊
