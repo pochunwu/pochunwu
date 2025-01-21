@@ -62,11 +62,11 @@ I'm a Master's student in Computer Science at UC San Diego, passionate about sof
 ## 🌐 Let’s Connect!  
 
 <div align="left">
-  <p style="display: flex; align-items: center; gap: 10px; font-size: 16px;">
+  <p style="display: flex; align-items: center; font-size: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Icon" height="20px">
     <a href="https://www.linkedin.com/in/pochunwu2000" target="_blank" style="text-decoration:none;">LinkedIn Profile</a>
   </p>
-  <p style="display: flex; align-items: center; gap: 10px; font-size: 16px;">
+  <p style="display: flex; align-items: center; font-size: 20px;">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub Icon" height="20px">
     <a href="https://pochunwu.github.io" target="_blank" style="text-decoration:none;">Personal Website</a>
   </p>
