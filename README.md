@@ -1,10 +1,5 @@
 # 👋 Hello! This is Po-Chun 🎉
 
-## 🌟 About Me  
-I'm a Master's student in Computer Science at UC San Diego, passionate about software engineering, machine learning, and building scalable systems. With hands-on experience in NLP, distributed systems, and robotics, I enjoy tackling complex problems and learning new technologies. When not coding, I love exploring the intersection of technology and society.  
-
----
-
 ## 🛠️ Skills  
 
 ### **Programming Languages**  
